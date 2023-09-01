@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated collection of machine learning projects designed to take you from a novice to a pro in the field of machine learning. Each project provides practical hands-on experience, helping you gain mastery in machine learning concepts and techniques.
 
-Step into the captivating world of Machine Learning, where intelligent systems learn, adapt, and make informed decisions based on data. From predictive modeling to pattern recognition, machine learning drives a revolution across industries, reshaping how we analyze information and extract invaluable insights. Explore the intricacies of traditional machine learning algorithms, delve into the depths of data, and unravel the mysteries of intelligent systems with us. 🤖
+Step into the captivating world of Machine Learning, where intelligent systems learn, adapt, and make informed decisions based on data. From predictive modeling to pattern recognition, machine learning drives a revolution across industries, reshaping how we analyze information and extract invaluable insights. Explore the intricacies of traditional machine learning algorithms, delve into the depths of data, and unravel the mysteries of intelligent systems with me. 🤖
 
 ## Experience Machine Learning Mastery through Practical Learning 📚
 
