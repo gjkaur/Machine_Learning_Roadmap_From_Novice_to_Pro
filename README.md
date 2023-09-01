@@ -43,4 +43,4 @@ This repository is organized into three levels: Beginner, Intermediate, and Adva
 - [Learn How to Build a Logistic Regression Model in PyTorch](/advanced/pytorch-logistic-regression)
 - [Demand prediction of driver availability using multistep time series analysis](/advanced/driver-demand-prediction)
 
-Feel free to explore, learn, and contribute to these projects. We hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
+Feel free to explore, learn, and contribute to these projects. I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
