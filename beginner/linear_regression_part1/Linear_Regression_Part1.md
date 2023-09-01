@@ -1,10 +1,8 @@
 # Linear Regression Part 1: Understanding the Basics 📊
 
-Welcome to the Linear Regression Part 1 project! In this introductory section, we will delve into the fundamental concepts of linear regression—a foundational technique in the field of machine learning and statistics. This project aims to provide you with a strong understanding of the core principles and concepts behind linear regression. 🚀
+Welcome to the Linear Regression Part 1! In this introductory section, we will delve into the fundamental concepts of linear regression—a foundational technique in the field of machine learning and statistics. This part aims to provide you with a strong understanding of the core principles and concepts behind linear regression. 🚀
 
-## Project Template Outcomes 📝
-
-By the end of this project, you will have a solid grasp of the following key topics:
+By the end of this part, you will have a solid grasp of the following key topics 📝:
 
 - **What is Regression?**: An introduction to regression analysis and its significance in data analysis. 📈
 
