@@ -10,8 +10,8 @@ This repository is organized into three levels: Beginner, Intermediate, and Adva
 
 ### Beginner 🌱
 
-- [Linear Regression Model Project in Python for Beginners Part 1]
-- [Linear Regression Model Project in Python for Beginners Part 2]
+- [Linear Regression Model Project in Python for Beginners Part 1](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/tree/main/beginner/linear_regression_part1)
+- [Linear Regression Model Project in Python for Beginners Part 2](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/tree/main/beginner/linear_regression_part2)
 - [Build Regression (Linear, Ridge, Lasso) Models in NumPy Python]
 - [Learn to Build a Polynomial Regression Model from Scratch]
 - [Build a Logistic Regression Model in Python from Scratch]
