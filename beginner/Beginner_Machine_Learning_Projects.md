@@ -8,7 +8,7 @@ Welcome to the Beginner section of our Machine Learning learning path! This coll
 
 In this project, you'll take your first steps into the world of linear regression. You'll learn how to implement a simple linear regression model in Python and gain insights into the basics of predictive modeling.
 
-### 2. Linear Regression Model Project in Python for Beginners - Part 2
+### 2. [Linear Regression Model Project in Python for Beginners - Part 2](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/tree/main/beginner/linear_regression_part2)
 
 Building upon the knowledge gained in Part 1, this project dives deeper into linear regression. You'll explore more advanced concepts and techniques, allowing you to create more accurate and robust models.
 
