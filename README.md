@@ -10,37 +10,36 @@ This repository is organized into three levels: Beginner, Intermediate, and Adva
 
 ### Beginner 🌱
 
-- [Linear Regression Model Project in Python for Beginners Part 1](/beginner/linear-regression-part1)
-- [Linear Regression Model Project in Python for Beginners Part 2](/beginner/linear-regression-part2)
-- [Build Regression (Linear, Ridge, Lasso) Models in NumPy Python](/beginner/regression-models-numpy)
-- [Learn to Build a Polynomial Regression Model from Scratch](/beginner/polynomial-regression-scratch)
-- [Build a Logistic Regression Model in Python from Scratch](/beginner/logistic-regression-scratch)
-- [Build a Customer Churn Prediction Model using Decision Trees](/beginner/churn-prediction-decision-trees)
-- [Classification Projects on Machine Learning for Beginners - 1](/beginner/classification-projects-1)
-- [Classification Projects on Machine Learning for Beginners - 2](/beginner/classification-projects-2)
+- [Linear Regression Model Project in Python for Beginners Part 1]
+- [Linear Regression Model Project in Python for Beginners Part 2]
+- [Build Regression (Linear, Ridge, Lasso) Models in NumPy Python]
+- [Learn to Build a Polynomial Regression Model from Scratch]
+- [Build a Logistic Regression Model in Python from Scratch]
+- [Build a Customer Churn Prediction Model using Decision Trees]
+- [Classification Projects on Machine Learning for Beginners - 1]
+- [Classification Projects on Machine Learning for Beginners - 2]
 
 ### Intermediate 🚧
 
-- [Build Regression Models in Python for House Price Prediction](/intermediate/house-price-prediction)
-- [Machine Learning Project to Forecast Rossmann Store Sales](/intermediate/rossmann-store-sales)
-- [Ensemble Machine Learning Project - All State Insurance Claims Severity Prediction](/intermediate/all-state-insurance-claims)
-- [Insurance Pricing Forecast Using XGBoost Regressor](/intermediate/insurance-pricing-xgboost)
-- [Build a Churn Prediction Model using Ensemble Learning](/intermediate/churn-prediction-ensemble)
-- [Loan Eligibility Prediction using Gradient Boosting Classifier](/intermediate/loan-eligibility-gradient-boosting)
-- [Build Customer Propensity to Purchase Model in Python](/intermediate/customer-propensity-purchase)
-- [Credit Card Default Prediction using Machine learning techniques](/intermediate/credit-card-default-prediction)
-- [Avocado Machine Learning Project Python for Price Prediction](/intermediate/avocado-price-prediction)
-- [Ola Bike Rides Request Demand Forecast](/intermediate/ola-bike-demand-forecast)
+- [Build Regression Models in Python for House Price Prediction]
+- [Machine Learning Project to Forecast Rossmann Store Sales]
+- [Ensemble Machine Learning Project - All State Insurance Claims Severity Prediction]
+- [Insurance Pricing Forecast Using XGBoost Regressor]
+- [Build a Churn Prediction Model using Ensemble Learning]
+- [Loan Eligibility Prediction using Gradient Boosting Classifier]
+- [Build Customer Propensity to Purchase Model in Python]
+- [Credit Card Default Prediction using Machine learning techniques]
+- [Avocado Machine Learning Project Python for Price Prediction]
+- [Ola Bike Rides Request Demand Forecast]
 
 ### Advanced 🚀
 
-- [Build Piecewise and Spline Regression Models in Python](/advanced/piecewise-spline-regression)
-- [BigMart Sales Prediction ML Project in Python](/advanced/bigmart-sales-prediction)
-- [Learn How to Build a Linear Regression Model in PyTorch](/advanced/pytorch-linear-regression)
-- [Build a Credit Default Risk Prediction Model with LightGBM](/advanced/lightgbm-credit-default)
-- [Multilabel Classification Project for Predicting Shipment Modes](/advanced/multilabel-shipment-modes)
-- [Loan Eligibility Prediction in Python using H2O.ai](/advanced/h2o-loan-eligibility)
-- [Learn How to Build a Logistic Regression Model in PyTorch](/advanced/pytorch-logistic-regression)
-- [Demand prediction of driver availability using multistep time series analysis](/advanced/driver-demand-prediction)
-
+- [Build Piecewise and Spline Regression Models in Python]
+- [BigMart Sales Prediction ML Project in Python]
+- [Learn How to Build a Linear Regression Model in PyTorch]
+- [Build a Credit Default Risk Prediction Model with LightGBM]
+- [Multilabel Classification Project for Predicting Shipment Modes]
+- [Loan Eligibility Prediction in Python using H2O.ai]
+- [Learn How to Build a Logistic Regression Model in PyTorch]
+- [Demand prediction of driver availability using multistep time series analysis]
 Feel free to explore, learn, and contribute to these projects. I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
