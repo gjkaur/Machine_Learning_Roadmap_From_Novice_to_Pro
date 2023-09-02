@@ -1,12 +1,8 @@
 # Machine Learning Projects 🏆 
 
-_________________________________________________
-
-# Linear Regression Projects 📊
+## Linear Regression Projects 📊
 
 Welcome to a collection of practical linear regression projects designed to enhance your data analysis and prediction skills. Each project offers hands-on experience in applying linear regression techniques to real-world scenarios.
-
-## Project List
 
 1. **Predicting House Prices 🏡:** Build a model to predict house prices based on features like square footage, number of bedrooms, location, and more. Use a real estate dataset to create a regression model. 🏠💰
 
