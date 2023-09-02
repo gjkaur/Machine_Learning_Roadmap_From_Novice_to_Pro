@@ -1,3 +1,7 @@
+# Machine Learning Projects 📊
+
+_________________________________________________
+
 # Linear Regression Projects 📊
 
 Welcome to a collection of practical linear regression projects designed to enhance your data analysis and prediction skills. Each project offers hands-on experience in applying linear regression techniques to real-world scenarios.
