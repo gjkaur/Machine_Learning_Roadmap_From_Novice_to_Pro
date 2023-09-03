@@ -12,7 +12,7 @@ In this project, you'll take your first steps into the world of linear regressio
 
 Building upon the knowledge gained in Part 1, this project dives deeper into linear regression. You'll explore more advanced concepts and techniques, allowing you to create more accurate and robust models.
 
-### 3. Build Regression (Linear, Ridge, Lasso) Models in NumPy Python
+### 3. [Build Regression (Linear, Ridge, Lasso) Models in NumPy Python](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/tree/main/beginner/regression-models-numpy_part3)
 
 This project introduces you to different regression techniques, including linear, ridge, and lasso regression, implemented using the powerful NumPy library in Python. You'll gain a comprehensive understanding of various regression methods.
 
