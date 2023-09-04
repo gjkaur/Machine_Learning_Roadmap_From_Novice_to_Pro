@@ -72,7 +72,59 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Building a Multiple Linear Regression Model 🏗️**: Step-by-step guidance on constructing a multiple linear regression model, from data preparation to evaluation.
   
 ## Part 3
+- **What is Regression? 📈**: Understanding the fundamentals of regression and its importance in data analysis.
+
+- **Applications of Regression 🚀**: Exploring real-world applications where regression models are widely used.
+
+- **Different Types of Regression 🔄**: An overview of various regression techniques and their specific use cases.
+
+- **Regression vs. Classification 📊📈**: Understanding the key differences between regression and classification problems.
+
+- **Linear Regression Explained 📈**: A deep dive into linear regression, one of the foundational regression techniques.
+
+- **Loss Function in Regression 📉**: Exploring loss functions used for training regression models.
+
+7. **Gradient Descent Demystified 🚀**
+   - Understanding the gradient descent optimization algorithm and its role in regression.
+
+- **Drawbacks of Linear Regression 🤔**: Identifying limitations and drawbacks of linear regression models.
+
+- **Bias and Variance in Modeling 🎯**: Delving into the concepts of bias and variance in the context of model performance.
+
+- **Ridge and Lasso Regression 🏞️**: Exploring regularization techniques like ridge and lasso regression.
+
+- **Introduction to Decision Trees 🌲**: Understanding decision trees and their role in predictive modeling.
+
+- **Decision Tree Terminology 🌳**: Familiarizing yourself with important terms and concepts related to decision trees.
+
+- **Advantages and Disadvantages of Decision Trees ✅❌**: Weighing the pros and cons of using decision trees in your models.
+
+- **Importing Data and Libraries 📊**: Learn how to import datasets and the necessary Python libraries for regression analysis.
+
+- **Handling Missing Data 🛠️**: Strategies and techniques for handling missing data within your dataset.
+
+- **Exploring Feature Correlation 📊**: Analyzing the relationships between different features using correlation.
+
+- **Building Regression Models from Scratch 🏗️**: Step-by-step guidance on constructing regression models using the NumPy module.
+
+- **Model Evaluation with Metrics 📏📈**: Gaining confidence in your models by assessing performance with metrics like Mean Squared Error (MSE) and R-squared.
 
 ## Part 4
+- **What is a Distribution Plot? 📈**: Understanding distribution plots and their significance in data analysis.
+- **What is a Boxplot? 📦**: Exploring boxplots and their role in visualizing data distribution and outliers.
+- **What is a Violin Plot? 🎻**: An overview of violin plots as a visualization tool for data distribution.
+- **How to Detect Outliers? 🔍**: Strategies and techniques for identifying outliers in your dataset.
+- **How to Treat Outliers? 🛠️**: Methods for handling outliers and their impact on your analysis.
+- **What is Pandas Imputer? 🐼**: Introduction to pandas imputer for handling missing data in your dataset.
+- **What is Iterative Imputer? 🔄**: Understanding iterative imputation as an advanced method for filling missing data.
+- **What is a KNN Imputer? 🤝**: Exploring K-nearest neighbors imputation for missing data.
+- **What is an LGBM Imputer? 🌳**: Introduction to LightGBM imputation for missing data.
+- **Univariate Analysis 📈**: Analyzing individual variables to understand their distributions and characteristics.
+- **Chatterjee Correlation 📊**: Exploring Chatterjee's correlation as an alternative to traditional correlation measures.
+- **What is ANOVA? 📊**: Understanding analysis of variance (ANOVA) and its role in statistical analysis.
+- **Implementation of ANOVA 📈**: Step-by-step guidance on implementing ANOVA for your datasets.
+- **Data Preprocessing 🛠️**: Techniques for preprocessing your data before applying regression models.
+- **What is AIC? 📏**: Introduction to the Akaike Information Criterion (AIC) for model selection.
+- **What is Likelihood? 📈**: Understanding likelihood as a fundamental concept in statistics and modeling.
 
 I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
