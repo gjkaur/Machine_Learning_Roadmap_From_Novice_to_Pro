@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated collection of machine learning content and projects designed to take you from a novice to a pro in the field of machine learning. Each topic provides practical hands-on experience, helping you gain mastery in machine learning concepts and techniques.
 
-## Part 1
+## [Part 1](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_1.ipynb)
 - **What is Regression? 📈**: An introduction to regression analysis and its significance in data analysis. 
 - **Types of Regression 🔄**: A brief overview of different types of regression techniques and when to use them. 
 - **What is Mean, Variance, and Standard Deviation?  📉**: Essential statistical measures that play a crucial role in regression analysis.
@@ -21,7 +21,7 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Coefficient of Determination (R-Squared) 📈**: Understanding R-squared as a measure of goodness of fit in regression models. 
 - **Diagnostic and Remedial Measures 🧰**: Learning about diagnostic tools and remedies for common regression issues. 
   
-## Part 2
+## [Part 2](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_2.ipynb)
 
 - **What is Multiple Linear Regression?**: An introduction to multiple linear regression and its significance in predictive modeling.
 - **General Linear Regression Model 📊**: Understanding the general framework of linear regression models.
@@ -40,7 +40,7 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Various Criteria for Model Selection 📊**: Discussing different criteria for selecting the best regression model, including R-squared, Mallow's Cp, AIC, BIC, and PRESS.
 - **Building a Multiple Linear Regression Model 🏗️**: Step-by-step guidance on constructing a multiple linear regression model, from data preparation to evaluation.
   
-## Part 3
+## [Part 3](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_3.ipynb)
 - **What is Regression? 📈**: Understanding the fundamentals of regression and its importance in data analysis.
 - **Applications of Regression 🚀**: Exploring real-world applications where regression models are widely used.
 - **Different Types of Regression 🔄**: An overview of various regression techniques and their specific use cases.
@@ -60,7 +60,7 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Building Regression Models from Scratch 🏗️**: Step-by-step guidance on constructing regression models using the NumPy module.
 - **Model Evaluation with Metrics 📏📈**: Gaining confidence in your models by assessing performance with metrics like Mean Squared Error (MSE) and R-squared.
 
-## Part 4
+## [Part 4](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_4.ipynb)
 - **What is a Distribution Plot? 📈**: Understanding distribution plots and their significance in data analysis.
 - **What is a Boxplot? 📦**: Exploring boxplots and their role in visualizing data distribution and outliers.
 - **What is a Violin Plot? 🎻**: An overview of violin plots as a visualization tool for data distribution.
