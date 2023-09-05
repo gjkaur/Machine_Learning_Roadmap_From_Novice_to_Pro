@@ -78,7 +78,7 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **What is AIC? 📏**: Introduction to the Akaike Information Criterion (AIC) for model selection.
 - **What is Likelihood? 📈**: Understanding likelihood as a fundamental concept in statistics and modeling.
 
-## [Part 5]()
+## [Part 5](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_5.ipynb)
 - **Understanding the Basics of Classification 📚**:Introduction to classification and its importance in machine learning.   
 - **Introduction to Logistic Regression 📈**: An overview of logistic regression as a classification algorithm.   
 - **Understanding the Logit Function 📊**: Explanation of the logit function, which is central to logistic regression.   
