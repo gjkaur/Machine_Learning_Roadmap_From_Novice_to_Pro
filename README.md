@@ -78,4 +78,22 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **What is AIC? 📏**: Introduction to the Akaike Information Criterion (AIC) for model selection.
 - **What is Likelihood? 📈**: Understanding likelihood as a fundamental concept in statistics and modeling.
 
+## [Part 5]()
+- **Understanding the Basics of Classification 📚**:Introduction to classification and its importance in machine learning.   
+- **Introduction to Logistic Regression 📈**: An overview of logistic regression as a classification algorithm.   
+- **Understanding the Logit Function 📊**: Explanation of the logit function, which is central to logistic regression.   
+- **Coefficients in Logistic Regression 🔍**: How logistic regression calculates coefficients for predictive modeling.   
+- **Concept of Maximum Log-Likelihood 🎯**: Understanding the concept of maximum likelihood estimation in logistic regression.   
+- **Performance Metrics 📊**: Explore various performance metrics like confusion matrix, recall, accuracy, precision, f1-score, AUC, and ROC curve.
+- **Importing the Dataset and Required Libraries 📦**: Learn how to import datasets and the necessary Python libraries for classification analysis.
+- **Basic Exploratory Data Analysis (EDA) 📊**: Perform basic exploratory data analysis using Python libraries like matplotlib and seaborn for data interpretation and visualization.
+- **Data Inspection and Cleaning 🧹**: Strategies and techniques for inspecting and cleaning your dataset to prepare it for modeling.
+- **Building the Model 🏗️**: Use Python libraries such as statsmodels and scikit-learn to build logistic regression models.
+- **Dataset Splitting 🧩**: Split your dataset into training and testing sets using scikit-learn.
+- **Model Training and Prediction 🚀**: Train your model using classification techniques like logistic regression and make predictions.
+- **Model Evaluation 📏**: Gain confidence in your model's performance by assessing its accuracy, confusion matrix, recall, precision, and f1-score.
+- **Handling Unbalanced Data ⚖️**: Explore methods for dealing with unbalanced datasets, a common issue in classification.
+- **Feature Selection 📈**: Perform feature selection using multiple methods to improve model efficiency and interpretability.
+- **Saving the Best Model 📦**: Save your trained model in a pickle format for future use and deployment.
+
 I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
