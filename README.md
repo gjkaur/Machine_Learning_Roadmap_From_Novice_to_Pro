@@ -91,6 +91,22 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Building the Model 🏗️**: Use Python libraries such as statsmodels and scikit-learn to build logistic regression models.
 - **Dataset Splitting 🧩**: Split your dataset into training and testing sets using scikit-learn.
 - **Model Training and Prediction 🚀**: Train your model using classification techniques like logistic regression and make predictions.
+
+## [Part 6]()
+- **Introduction to Decision Trees 🌳**: Let's kick things off by understanding the fundamentals of decision trees in data science. 
+- **Measures of Impurity 📊**: Delve into the metrics that help us measure impurity and make crucial decisions in tree building. 
+- **Working of Decision Trees 💡**: Get under the hood and explore how decision trees make predictions and classifications. 
+- **Classification and Regression Trees (CART) 🧮**: Learn about the versatile CART algorithm that handles both classification and regression tasks. 
+- **C5.0 and CHAID Algorithms 🤖**: Discover two more decision tree algorithms, C5.0 and CHAID, and their unique characteristics. 
+- **Comparing Decision Tree Types 🌟**: Compare different types of decision trees concerning measures of impurity and suitability. 
+- **Visualizations with Python 📊🐍**: Utilize Python libraries, particularly Matplotlib, to create captivating data visualizations. 
+- **Data Prep & Cleaning 🧹🔍**: Ensure your dataset is pristine through thorough inspection and cleaning. 
+- **Building the Decision Tree Model 🛠️**: Learn to construct decision tree models using the versatile sklearn library. 
+- **Data Splitting 📊🎯**: Split your dataset into training and testing subsets using sklearn. 
+- **Making Predictions 🎯💡**: Train your decision tree model and harness it for making data-driven predictions. 
+- **Model Confidence 🎉**: Evaluate your model's performance using essential metrics like accuracy scores, confusion matrices, recall, precision, and F1 scores. 
+- **Handling Unbalanced Data ⚖️**: Tackle unbalanced datasets with the SMOTE method, ensuring reliable model training. 
+- **Feature Importance 🌐**: Explore the concept of feature importance, identifying key factors influencing your decisions. 
 - **Model Evaluation 📏**: Gain confidence in your model's performance by assessing its accuracy, confusion matrix, recall, precision, and f1-score.
 - **Handling Unbalanced Data ⚖️**: Explore methods for dealing with unbalanced datasets, a common issue in classification.
 - **Feature Selection 📈**: Perform feature selection using multiple methods to improve model efficiency and interpretability.
