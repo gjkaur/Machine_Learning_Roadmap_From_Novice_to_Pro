@@ -96,7 +96,7 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Feature Selection 📈**: Perform feature selection using multiple methods to improve model efficiency and interpretability.
 - **Saving the Best Model 📦**: Save your trained model in a pickle format for future use and deployment.
 
-## [Part 6]()
+## [Part 6](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_6.ipynb)
 - **Introduction to Decision Trees 🌳**: Let's kick things off by understanding the fundamentals of decision trees in data science. 
 - **Measures of Impurity 📊**: Delve into the metrics that help us measure impurity and make crucial decisions in tree building. 
 - **Working of Decision Trees 💡**: Get under the hood and explore how decision trees make predictions and classifications. 
