@@ -91,6 +91,10 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Building the Model 🏗️**: Use Python libraries such as statsmodels and scikit-learn to build logistic regression models.
 - **Dataset Splitting 🧩**: Split your dataset into training and testing sets using scikit-learn.
 - **Model Training and Prediction 🚀**: Train your model using classification techniques like logistic regression and make predictions.
+- **Model Evaluation 📏**: Gain confidence in your model's performance by assessing its accuracy, confusion matrix, recall, precision, and f1-score.
+- **Handling Unbalanced Data ⚖️**: Explore methods for dealing with unbalanced datasets, a common issue in classification.
+- **Feature Selection 📈**: Perform feature selection using multiple methods to improve model efficiency and interpretability.
+- **Saving the Best Model 📦**: Save your trained model in a pickle format for future use and deployment.
 
 ## [Part 6]()
 - **Introduction to Decision Trees 🌳**: Let's kick things off by understanding the fundamentals of decision trees in data science. 
@@ -107,9 +111,5 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Model Confidence 🎉**: Evaluate your model's performance using essential metrics like accuracy scores, confusion matrices, recall, precision, and F1 scores. 
 - **Handling Unbalanced Data ⚖️**: Tackle unbalanced datasets with the SMOTE method, ensuring reliable model training. 
 - **Feature Importance 🌐**: Explore the concept of feature importance, identifying key factors influencing your decisions. 
-- **Model Evaluation 📏**: Gain confidence in your model's performance by assessing its accuracy, confusion matrix, recall, precision, and f1-score.
-- **Handling Unbalanced Data ⚖️**: Explore methods for dealing with unbalanced datasets, a common issue in classification.
-- **Feature Selection 📈**: Perform feature selection using multiple methods to improve model efficiency and interpretability.
-- **Saving the Best Model 📦**: Save your trained model in a pickle format for future use and deployment.
 
 I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
