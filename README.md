@@ -110,6 +110,26 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Making Predictions 🎯💡**: Train your decision tree model and harness it for making data-driven predictions. 
 - **Model Confidence 🎉**: Evaluate your model's performance using essential metrics like accuracy scores, confusion matrices, recall, precision, and F1 scores. 
 - **Handling Unbalanced Data ⚖️**: Tackle unbalanced datasets with the SMOTE method, ensuring reliable model training. 
-- **Feature Importance 🌐**: Explore the concept of feature importance, identifying key factors influencing your decisions. 
+- **Feature Importance 🌐**: Explore the concept of feature importance, identifying key factors influencing your decisions.
+
+## [Part 7]()
+- **What is Classification? 🎯**: Classification is a fundamental machine learning task where the goal is to categorize data into predefined classes or labels. It's used for various applications, including spam detection, image recognition, and medical diagnosis.
+- **Types of Classification 📊**: Explore different types of classification algorithms, such as binary classification, multi-class classification, and multi-label classification. Each type serves specific use cases and challenges.
+- **Understanding the Business Context and Objective 🏢**: Before diving into classification, it's crucial to understand the business context and objectives. Aligning machine learning goals with business goals ensures meaningful results.
+- **Data Cleaning 🧹**: Clean and preprocess your data to ensure it's suitable for classification. Address issues like missing values, outliers, and inconsistent formatting.
+- **What is Data Imbalance? ⚖️**: Learn about data imbalance, a common issue where some classes have significantly fewer samples than others. Imbalanced datasets can lead to biased models.
+- **How to Deal with Imbalanced Data? 🔄**: Explore techniques to handle imbalanced data, including resampling methods like oversampling and undersampling, and algorithm-level approaches.
+- **Feature Encoding 🧾**: Understand how to encode categorical features into numerical formats that machine learning algorithms can process effectively.
+- **Importance of Splitting Data 📂**: Splitting your dataset into training and testing sets is essential for model evaluation. Learn why it's crucial and how to do it correctly.
+- **K Nearest Neighbours (KNN) Algorithm 🤝**: Discover the K Nearest Neighbours algorithm, a simple yet powerful classification technique based on similarity among data points.
+- **Naive Bayes Algorithm 📈**: Explore the Naive Bayes algorithm, a probabilistic method commonly used for text classification and spam filtering.
+- **Logistic Regression 📊**: Dive into Logistic Regression, a linear classification algorithm used to model the probability of an instance belonging to a particular class.
+- **Decision Tree Classifier 🌲**: Learn about Decision Tree classifiers, which use tree-like structures to make decisions based on feature values.
+- **Confusion Matrix 📉**: Understand the confusion matrix, a valuable tool for evaluating classification model performance and assessing true positives, true negatives, false positives, and false negatives.
+- **Accuracy Measurement 🎯**: Measure the overall accuracy of your classification model, which is the ratio of correctly predicted instances to total instances.
+- **Precision, Recall, F1 Score 📈**: Explore precision, recall, and F1 score as important metrics for assessing the quality of your classification model, especially when dealing with imbalanced data.
+- **Feature Importance 📌**: Determine feature importance to understand which features have the most significant impact on your classification model's predictions.
+- **Model Predictions 🧙‍♂️**: Make predictions using your trained classification model on new data. Understand how to interpret model predictions effectively.
+- **Model Evaluation 🧐**: Evaluate the performance of your classification model using various metrics and techniques, ensuring it meets the desired criteria.
 
 I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
