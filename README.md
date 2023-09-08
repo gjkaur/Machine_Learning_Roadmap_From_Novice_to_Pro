@@ -112,7 +112,7 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Handling Unbalanced Data ⚖️**: Tackle unbalanced datasets with the SMOTE method, ensuring reliable model training. 
 - **Feature Importance 🌐**: Explore the concept of feature importance, identifying key factors influencing your decisions.
 
-## [Part 7]()
+## [Part 7](https://github.com/gjkaur/Machine_Learning_Roadmap_From_Novice_to_Pro/blob/main/Part_7.ipynb)
 - **What is Classification? 🎯**: Classification is a fundamental machine learning task where the goal is to categorize data into predefined classes or labels. It's used for various applications, including spam detection, image recognition, and medical diagnosis.
 - **Types of Classification 📊**: Explore different types of classification algorithms, such as binary classification, multi-class classification, and multi-label classification. Each type serves specific use cases and challenges.
 - **Understanding the Business Context and Objective 🏢**: Before diving into classification, it's crucial to understand the business context and objectives. Aligning machine learning goals with business goals ensures meaningful results.
