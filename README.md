@@ -132,4 +132,25 @@ Welcome to the Machine Learning Roadmap repository! Here, you'll find a curated 
 - **Model Predictions 🧙‍♂️**: Make predictions using your trained classification model on new data. Understand how to interpret model predictions effectively.
 - **Model Evaluation 🧐**: Evaluate the performance of your classification model using various metrics and techniques, ensuring it meets the desired criteria.
 
+## [Part 8]()
+- **What is Ensembling? 🧙‍♂️**: Understanding the concept of ensemble learning and its importance in machine learning.
+- **What is Bagging? 🎒**: A deep dive into bagging (Bootstrap Aggregating) as a popular ensemble technique.
+- **Understanding Random Forest model 🌲**: Getting to know the Random Forest algorithm, a powerful ensemble method.
+- **Building Random Forest model 🌲**: Step-by-step guidance on constructing a Random Forest model.
+- **What are problems with bagging and how to overcome them? 🤔**: Identifying common issues with bagging and strategies for overcoming them.
+- **What is Boosting? 🚀**: An introduction to boosting as another ensemble technique.
+- **Fundamentals of AdaBoost 🚀**: Understanding the AdaBoost (Adaptive Boosting) algorithm and its principles.
+- **Building AdaBoost model 🚀**: A detailed walkthrough of creating an AdaBoost model.
+- **XGBoost algorithm 🚀**: Exploring the XGBoost algorithm, a widely used gradient boosting framework.
+- **Building XGBoost model 🚀**: Step-by-step instructions for building an XGBoost model.
+- **Understanding XGBoost hyperparameter Gamma 🚀**: Delving into the Gamma hyperparameter in XGBoost and its significance.
+- **Understanding XGBoost hyperparameter Lambda 🚀**: Explaining the Lambda hyperparameter in XGBoost and its role.
+- **What is hyperparameter tuning? 🛠️**: Introduction to the concept of hyperparameter tuning for optimizing models.
+- **GridSearch optimization 🛠️**: Using GridSearchCV for hyperparameter tuning.
+- **RandomSearch optimization 🛠️**: Employing RandomizedSearchCV for hyperparameter optimization.
+- **Bayesian optimization 🛠️**: Leveraging Bayesian optimization for hyperparameter tuning.
+- **Hyperparameter tuning for RandomForest model 🛠️**: Fine-tuning hyperparameters specifically for Random Forest models.
+- **Hyperparameter tuning for XGBoost model using hyperopt 🛠️**: A guide on tuning hyperparameters for XGBoost models using hyperopt.
+- **Feature importance 🎯**: Understanding how to assess feature importance in machine learning models.
+
 I hope this roadmap helps you on your journey to becoming a machine learning pro! 🌟
